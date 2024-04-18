@@ -3,7 +3,9 @@
 ## Descrição: 
 Aplicação em React Vite desenvolvida para listar, editar, deletar e visualizar tarefas, <br>
 com o objetivo de colocar em prática a biblioteca de desenvolvimento de interfaces React.js<br>
-
+<br><br>
+<img width="50%"  src="https://github.com/stheryalves/Commits_Gerenciador_de_tarefas_React/assets/134507985/a7e0d43a-333b-4928-9114-a4c72b8f916c">
+<br><br>
 Como usar: Como exemplo, há uma tarefa pré-definida que você pode usar para editar, <br>
 deletar ou mudar o status para testar, além de adicionar suas próprias tarefas.<br>
 
